@@ -6,7 +6,7 @@ This repository contains a basic Spring MVC (Model-View-Controller) application 
 
 The project is a simple Spring MVC application that demonstrates two main functionalities:
 1. **SearchController:** Handles search queries by redirecting the user's query to Google.
-2. **FormController:** Manages a form submission and displays the student's information.
+2. **FormController:** Manages a form submission.
 
 ## Code Structure
 
@@ -18,7 +18,7 @@ The repository includes the following files:
 
 - `FormController.java`: Manages form submissions. It includes two methods:
     - `showForm()` renders the complex form.
-    - `handle()` handles form submissions and prints the student's information.
+    - `handle()` handles form submissions.
 
 - `complex_form.jsp`: Represents the form view.
 
