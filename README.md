@@ -2,7 +2,7 @@
 
 This repository contains a basic Spring MVC (Model-View-Controller) application for search functionality and form handling.
 
-## Description
+## Description 
 
 The project is a simple Spring MVC application that demonstrates two main functionalities:
 1. **SearchController:** Handles search queries by redirecting the user's query to Google.
